@@ -1,0 +1,2 @@
+# numforge
+Rust numeric recipes
